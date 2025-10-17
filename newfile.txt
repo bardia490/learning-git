@@ -1,1 +1,9 @@
 this is a new file for the main branch (branch master)
+addded a new line from branch main (and now adding something from branch 2)
+
+
+added another line on line 5 from main
+
+
+this is some giberish
+also added this for furthur testing on line 9 from main

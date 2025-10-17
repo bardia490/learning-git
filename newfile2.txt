@@ -1,1 +1,2 @@
 this is the second file just for testing
+added this file from branch2 to trigger merge conflict (now moved to line one)
